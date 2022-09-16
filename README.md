@@ -1,9 +1,9 @@
-<h2 align="center"> Senior Software Engineer (Full-stack & Blockchain) </h2>
+<h2 align="center"> Senior RUST Engineer </h2>
 
-Married Rust in 2017 'cause Crazy about it!
-Rust is my F3 (Friend, Fiancee and Future). Used to be **F**riend in 2015, **F**iancee in 2016 and now its my **F**uture.</br>
+Married Rust in 2017 'cause Crazy about it! </br>
+Rust is my F3 (Friend, Fiancee and Future). Used to be **Friend** in 2015, **Fiancee** in 2016 and now its my **Future**.</br>
 
-💖: RUST, REACT and RUBY </br>
-💎: Solidity, C++ and MERN stack
+💖 RUST </br>
+💎 Solidity | React.js | Node.js
 
 <p align="right">12+ Years Software Experience</p>
