@@ -1,5 +1,8 @@
 <h2 align="center"> Senior Full-stack Ruby Engineer </h2>
 
-A highly skilled professional software developer who enjoys writing code that others can understand and follow. Passion for programming began when he was 11, after finding a critical issue on his favourite v-game and became a true lifelong enthusiast. He believes that programming is a way of thinking and a way of life. In the last 10 years, He has specialized in Ruby on Rails to build highly efficient and scalable applications. He likes to take on new challenges and wearing a lot of hats.
+A highly skilled professional software developer, a **technical lead** and an active **open source contributor** with over **10 years**' web programming experience.
+Specialized in **Ruby on Rails**, React and Node.js and mainly focused on **eCommerce**, web service APIs, third party integrations, speed optimizations and UI/UX as well.
+Passion for programming began when 11 years old, after finding a critical issue on the favourite v-game and became a true lifelong **enthusiast**.
+Like to take on new **challenges** and wearing **a lot of hats**.
 
 <p align="right">10+ Years Software Experience</p>
