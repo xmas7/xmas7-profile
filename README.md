@@ -1,4 +1,4 @@
-<h2 align="center"> Senior Full-stack Ruby Engineer </h2>
+<h2 align="center"> Senior Full-stack Ruby on Rails Engineer </h2>
 
 A highly skilled professional software developer, a **technical lead** and an active **open source contributor** with over **10 years**' web programming experience.
 Specialized in **Ruby on Rails**, React and Node.js and mainly focused on **eCommerce**, **FinTech**, web service APIs, third party integrations, speed optimizations and UI/UX as well.
