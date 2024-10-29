@@ -9,6 +9,7 @@ TKHqG6FAqUHPXABmzQFh79bWoQYXXxMv1z
 https://tronscan.org/#/address/TKHqG6FAqUHPXABmzQFh79bWoQYXXxMv1z
 
 Expertise
+<h3 align="center"> Senior Software Engineer </h3>
 - Adaptability
 - Communication
 - Problem Solving
