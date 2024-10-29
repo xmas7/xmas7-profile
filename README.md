@@ -8,8 +8,7 @@ Like to take on new **challenges** and wearing **a lot of hats**.
 TKHqG6FAqUHPXABmzQFh79bWoQYXXxMv1z
 https://tronscan.org/#/address/TKHqG6FAqUHPXABmzQFh79bWoQYXXxMv1z
 
-Expertise
-<h3 align="center"> Senior Software Engineer </h3>
+**Expertise**
 - Adaptability
 - Communication
 - Problem Solving
