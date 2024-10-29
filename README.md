@@ -6,10 +6,18 @@ Passion for programming began when 11 years old and became a true lifelong **ent
 Like to take on new **challenges** and wearing **a lot of hats**.
 
 TKHqG6FAqUHPXABmzQFh79bWoQYXXxMv1z
-https://tronscan.org/#/address/TKHqG6FAqUHPXABmzQFh79bWoQYXXxMv1z
+TKHqG6FAqUHPXABmzQFh79bWoQYXXxMv1z
 
 **Expertise**
 - Adaptability
 - Communication
 - Problem Solving
-- Project Management
+- Collaboration
+- Fast Learning
+- Decision Making
+- Technical Proficiency
+- Mentorship
+- Resilience
+- Emotional Intelligence
+- Continuous Learning
+- - Project Management
