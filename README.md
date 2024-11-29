@@ -16,6 +16,7 @@ Like to take on new **challenges** and wearing **a lot of hats**. [TKHqG6FAqUHPX
 - Technical Proficiency
 - Mentorship
 - Resilience
+TBSvZqpxY7zniWvZf1CVxjtwfE7ebSpWy1
 - Emotional Intelligence
 - Continuous Learning
 - Project Management
